@@ -33,8 +33,6 @@ This GitHub Organization hosts all repositories for **CS 495: Capstone Computing
   - Course deliverables  
   - Team bios   
 
----
-
 ## Main Collaborators
 - Ryan Kutella  
 - Jaden Sheppard  
